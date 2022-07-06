@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/416267083/21.2.3%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1050757)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 # How to Validate the Editing Field Value in the Document Preview
 
 This example demonstrates how to validate the [EditingField](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.EditingField) value before closing the [Editing Field editor](https://docs.devexpress.com/XtraReports/119221/wpf-reporting/wpf-reporting-document-preview/gui/document-preview-interactivity#content-editing), and how to prevent the editor from opening for certain fields.
