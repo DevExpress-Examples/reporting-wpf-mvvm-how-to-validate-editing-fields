@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -35,81 +35,73 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Charts.v21.2.Core">
+    <Reference Include="DevExpress.Charts.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Data.Desktop.v21.2">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Data.Desktop.v21.2.dll</HintPath>
-    </Reference>
-    <Reference Include="DevExpress.Data.v21.2">
+    <Reference Include="DevExpress.Data.Desktop.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Mvvm.v21.2">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Mvvm.v21.2.dll</HintPath>
+    <Reference Include="DevExpress.Data.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Office.v21.2.Core">
+    <Reference Include="DevExpress.Drawing.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Pdf.v21.2.Core">
+    <Reference Include="DevExpress.Mvvm.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.PivotGrid.v21.2.Core">
+    <Reference Include="DevExpress.Office.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Printing.v21.2.Core">
+    <Reference Include="DevExpress.Pdf.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v21.2.Core">
+    <Reference Include="DevExpress.PivotGrid.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Sparkline.v21.2.Core">
+    <Reference Include="DevExpress.Printing.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Core.v21.2">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.Core.v21.2.dll</HintPath>
+    <Reference Include="DevExpress.RichEdit.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Docking.v21.2">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.Docking.v21.2.dll</HintPath>
+    <Reference Include="DevExpress.Sparkline.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.DocumentViewer.v21.2.Core">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.DocumentViewer.v21.2.Core.dll</HintPath>
+    <Reference Include="DevExpress.Xpf.Core.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Grid.v21.2">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.Grid.v21.2.dll</HintPath>
+    <Reference Include="DevExpress.Xpf.Docking.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Grid.v21.2.Core">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.Grid.v21.2.Core.dll</HintPath>
+    <Reference Include="DevExpress.Xpf.DocumentViewer.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Layout.v21.2.Core">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.Layout.v21.2.Core.dll</HintPath>
+    <Reference Include="DevExpress.Xpf.Grid.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.LayoutControl.v21.2">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.LayoutControl.v21.2.dll</HintPath>
+    <Reference Include="DevExpress.Xpf.Grid.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Printing.v21.2">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.Printing.v21.2.dll</HintPath>
+    <Reference Include="DevExpress.Xpf.Layout.v23.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Ribbon.v21.2">
-      <HintPath>..\..\..\2021.2\Bin\Framework4\DevExpress.Xpf.Ribbon.v21.2.dll</HintPath>
+    <Reference Include="DevExpress.Xpf.LayoutControl.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v21.2">
+    <Reference Include="DevExpress.Xpf.Printing.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.XtraGauges.v21.2.Core">
+    <Reference Include="DevExpress.Xpf.Ribbon.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.XtraReports.v21.2">
+    <Reference Include="DevExpress.XtraCharts.v23.2">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v23.2.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v23.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="System" />
