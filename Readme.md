@@ -28,7 +28,7 @@ Handle the [DocumentPreviewControl.ShowingEditingFieldEditor](https://docs.devex
 
 - [How to use custom controls for editing report content in Print Preview](https://github.com/DevExpress-Examples/Reporting_how-to-use-custom-controls-for-editing-report-content-in-print-preview-t456791)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-mvvm-how-to-validate-editing-fields&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-wpf-mvvm-how-to-validate-editing-fields&~~~was_helpful=no)
 
